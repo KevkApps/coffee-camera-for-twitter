@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:3:7-27
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:5:7-34
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:4:7-33
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:7:22-62
+uses-sdk
+ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:5-73
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:5-73
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:5-73
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:5-73
+INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:5-73
+	android:targetSdkVersion
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:41-70
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml:9:15-40
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml
+		INJECTED from /Users/X/Documents/Software-Projects/AndroidStudioProjects/CoffeeCameraForTwitter/libraries/opencv320/AndroidManifest.xml

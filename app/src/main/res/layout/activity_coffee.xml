@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activityRootView"
+    android:background="#000000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CoffeeActivity">
+
+        <view
+            android:id="@+id/camera_surface_view"
+            class="org.opencv.android.JavaCameraView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center" />
+
+    <ImageView
+        android:id="@+id/imageViewTopCover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="#000000" />
+
+    <ImageView
+        android:id="@+id/imageViewBottomCover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:background="#000000" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="left|center"
+        android:rotation="270"
+        android:layout_margin="10dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/app_logo" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right|bottom"
+        android:rotation="270"
+        android:layout_margin="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/clear" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right|top"
+        android:layout_margin="5dp"
+        android:scaleType="fitXY"
+        android:rotation="270"
+        android:src="@drawable/clear" />
+
+    <ImageView
+        android:id="@+id/imageViewShutter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff" />
+
+    <FrameLayout
+        android:id="@+id/splashFrame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:rotation="270"
+            app:srcCompat="@drawable/coffee_cam"
+            android:id="@+id/imageView" />
+
+    </FrameLayout>
+
+</FrameLayout>
